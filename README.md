@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhansh07&label=Profile%20views&color=0e75b6&style=flat" alt="singhansh07" /> </p>
 
-- 🔭 I’m currently working on **E commerce website**
+- 🔭 I’m currently working on **Swift shop, javascript**
 
 - 🌱 I’m currently learning **DSA, Javascript, reactJS**
 
