@@ -1,3 +1,5 @@
+<img src="banner.gif" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 🔭 I’m currently working with Express.js and JavaScript.<br>🌱 Actively learning Data Structures & Algorithms (DSA).<br>👯 Open to collaborating on open-source projects and full-stack development.<br>💬 Feel free to ask me about reactJS, expressJS.<br>📫 You can reach me at snghansh07@gmail.com<br>⚡ Fun fact: I’m a chess enthusiast.
 
