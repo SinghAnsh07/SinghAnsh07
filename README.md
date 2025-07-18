@@ -15,7 +15,7 @@
 
 # 💫 About Me:
 🔭 I'm currently learning **Machine Learning and data science**
-  -Ask me about **React.js,Node.js,C,C++,Python,MongoDb,HTML,CSS,Javascript**
+<br>💻 Ask me about **React.js,Node.js,C,C++,Python,MongoDb,HTML,CSS,Javascript**
 <br>🌱 Actively learning Data Structures & Algorithms.
 <br>👯 Open to collaborating on open-source projects and full-stack projects.
 <br>📫 You can reach me at snghansh07@gmail.com
