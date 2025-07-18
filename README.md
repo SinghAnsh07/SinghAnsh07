@@ -7,6 +7,11 @@
 <br>📫 You can reach me at snghansh07@gmail.com
 <br>⚡ Fun fact: I’m a chess enthusiast.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varakros) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshsingh07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snghansh07@gmail.com) 
