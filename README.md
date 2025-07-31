@@ -62,9 +62,7 @@
 
 </div>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghAnsh07&theme=radical" alt="SinghAnsh07" /></p>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-weld-five.vercel.app?user=SinghAnsh07&theme=radical" alt="GitHub Streak" /></a>
 
 ---
 
