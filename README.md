@@ -14,12 +14,14 @@
 </p>
 
 # 💫 About Me:
-🔭 I'm currently learning **Machine Learning and data science**
-<br>💻 Ask me about **React.js,Node.js,C,C++,Python,MongoDb,HTML,CSS,Javascript**
-<br>🌱 Actively learning Data Structures & Algorithms.
-<br>👯 Open to collaborating on open-source projects and full-stack projects.
-<br>📫 You can reach me at snghansh07@gmail.com
-<br>⚡ Fun fact: I’m a chess enthusiast.
+🔭 Currently building skills in **Machine Learning, Data Science**  
+💻 Tech stack: **React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS**  
+🧠 Programming languages: **C, C++, Java, Python**  
+📊 Data & ML tools: **NumPy, Pandas, Matplotlib, TensorFlow (Basic), OpenCV**  
+🌱 Actively practicing **Data Structures & Algorithms** and problem-solving  
+👯 Open to collaborating on **open-source, full-stack, and ML projects**  
+📫 Reach me at **snghansh07@gmail.com**  
+⚡ Fun fact: I enjoy **chess**
 
 
 ---
@@ -45,7 +47,11 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varakros) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshsingh07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snghansh07@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varakros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshsingh07)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snghansh07@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-1DA1F2?logo=codeforces&logoColor=white)](https://codolio.com/profile/varakros)
+ 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -64,15 +70,25 @@
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SinghAnsh07&show_icons=true&locale=en&layout=compact&theme=radical" alt="SinghAnsh07" /></p>
+<img src="https://github-readme-stats-zeta-umber-91.vercel.app/api?username=SinghAnsh07&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghAnsh07&show_icons=true&locale=en&theme=radical" alt="SinghAnsh07" /></p>
+<img src="https://github-readme-stats-zeta-umber-91.vercel.app/api/top-langs/?username=SinghAnsh07&layout=compact&theme=radical&cache_seconds=1800" height="165" />
 
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-weld-five.vercel.app?user=SinghAnsh07&theme=radical" alt="GitHub Streak" /></a>
+
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-weld-five.vercel.app?user=SinghAnsh07&theme=radical" alt="GitHub Streak" />
+</a>
+
+</div>
 
 ---
+
+
 
 ## 🎭 Coding Activity
 
