@@ -50,7 +50,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varakros)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshsingh07)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snghansh07@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-1DA1F2?logo=codeforces&logoColor=white)](https://codolio.com/profile/varakros)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-1DA1F2?logo=codeforces&logoColor=white)](https://codolio.com/profile/AnshSingh)
  
 
 # 💻 Tech Stack:
