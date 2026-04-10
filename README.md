@@ -33,7 +33,7 @@
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=varakros&theme=dark&show_icons=true" alt="CodeForces Stats"/>
 
 ### 💻 LeetCode
-<img src="https://leetcode.card.workers.dev/zenansh?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/zenansh?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats"/>
 
 ### 🍳 CodeChef
 <a href="https://www.codechef.com/users/singhansh07">
