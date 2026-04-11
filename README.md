@@ -14,14 +14,9 @@
 </p>
 
 # 💫 About Me:
-🔭 Currently building skills in **Machine Learning, Data Science**  
-💻 Tech stack: **React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS**  
-🧠 Programming languages: **C, C++, Java, Python**  
-📊 Data & ML tools: **NumPy, Pandas, Matplotlib, TensorFlow (Basic), OpenCV**  
-🌱 Actively practicing **Data Structures & Algorithms** and problem-solving  
-👯 Open to collaborating on **open-source, full-stack, and ML projects**  
+🔭 Currently exploring **Machine Learning, Data Science**  
+🧠 Programming languages: **C, C++, Java, Python**
 📫 Reach me at **snghansh07@gmail.com**  
-⚡ Fun fact: I enjoy **chess**
 
 
 ---
