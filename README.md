@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70D73&width=435&lines=Hi+👋,+I'm+Ansh+Singh)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
@@ -25,17 +23,12 @@
 ## 🎯 Competitive Programming Stats
 <div align="center">
 
-### 🏆 CodeForces
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=varakros&theme=dark&show_icons=true" alt="CodeForces Stats"/>
-
-### 💻 LeetCode
-<img src="https://leetcard.jacoblin.cool/zenansh?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats"/>
-
-### 🍳 CodeChef
+<div align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=varakros&theme=dark&show_icons=true" height="150"/>
+<img src="https://leetcard.jacoblin.cool/zenansh?theme=dark&font=Baloo+2&ext=heatmap" height="150"/>
+</div>
 <a href="https://www.codechef.com/users/singhansh07">
-  <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
-
-
+  <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats" width="300"/>
 </a>
 </div>
 
@@ -43,7 +36,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varakros)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshsingh07)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snghansh07@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-Profile-1DA1F2?logo=codeforces&logoColor=white)](https://codolio.com/profile/AnshSingh)
@@ -58,28 +50,23 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![React Native](https://img.shields.io/badge/ReactBits-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![System Design](https://img.shields.io/badge/System_Design-%23000000.svg?style=for-the-badge&logo=blueprint&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-zeta-umber-91.vercel.app/api?username=SinghAnsh07&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
-
-<img src="https://github-readme-stats-zeta-umber-91.vercel.app/api/top-langs/?username=SinghAnsh07&layout=compact&theme=radical&cache_seconds=1800" height="165" />
-
-</div>
-
-
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-weld-five.vercel.app?user=SinghAnsh07&theme=radical" alt="GitHub Streak" />
-</a>
-
+  <img src="https://github-readme-stats-zeta-umber-91.vercel.app/api?username=SinghAnsh07&show_icons=true&theme=radical&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-streak-stats-weld-five.vercel.app?user=SinghAnsh07&theme=radical" height="150" />
+  <img src="https://github-readme-stats-zeta-umber-91.vercel.app/api/top-langs/?username=SinghAnsh07&layout=compact&theme=radical&cache_seconds=1800" height="150" />
 </div>
 
 ---
@@ -98,7 +85,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varakros/varakros/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varakros/varakros/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/varakros/varakros/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/varakros/varakros/output/github-snake.svg" width="100%" />
 </picture>
 
 <br clear="right"/>
