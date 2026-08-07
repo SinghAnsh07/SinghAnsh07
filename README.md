@@ -8,6 +8,9 @@
     <td align="left">
       <strong>Full Stack AI Engineer / Artist.</strong> Building, breaking, and shipping.
     </td>
+    <td align="right">
+      <strong><a href="https://portfolio-ansh-singh.vercel.app/">Portfolio</a></strong>
+    </td>
   </tr>
 </table>
 
