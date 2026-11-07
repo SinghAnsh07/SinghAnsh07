@@ -58,8 +58,6 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" width="28" height="28" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="28" height="28" />
-  &nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="28" height="28" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" width="28" height="28" />
@@ -69,8 +67,6 @@
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="28" height="28" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="28" height="28" />
-  &nbsp;
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" alt="OpenAI" width="28" height="28" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="28" height="28" />
   &nbsp;
